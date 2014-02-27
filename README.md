@@ -1,3 +1,3 @@
 puppet-osx_ard
-===================
-A module for configuring Apple Remote Desktop.
+==============
+A Module for managing Apple Remote Desktop access on OS X.
